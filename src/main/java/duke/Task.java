@@ -55,6 +55,7 @@ public abstract class Task {
     public abstract String saveTask();
 
 
+
     /**
      * Returns string for task.
      * String contains type and name of task.
